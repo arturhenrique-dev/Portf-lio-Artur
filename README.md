@@ -142,7 +142,7 @@ Pode ser desligado em `profile.settings.customCursor`.
 - GitHub: [@arturhenrique-dev](https://github.com/arturhenrique-dev)
 - LinkedIn: [Artur Henrique](https://www.linkedin.com/in/artur-henrique-b4b88b2ba/)
 - Portfólio: [portf-lio-artur.vercel.app](https://portf-lio-artur.vercel.app/)
-- E-mail: <!-- TODO: e-mail profissional -->
+- E-mail: <!- arturhsilvadev@gmail.com -->
 
 ---
 
