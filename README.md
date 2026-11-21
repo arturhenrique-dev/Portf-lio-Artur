@@ -17,14 +17,6 @@ Site one-page em tema escuro (preto e azul), com foco em fluidez e animações s
 
 ---
 
-## 🖼️ Pré-visualização
-
-<!-- TODO: salve os prints em docs/ e mantenha os nomes abaixo -->
-| Desktop | Mobile |
-|---|---|
-| ![Versão desktop](docs/preview-desktop.png) | ![Versão mobile](docs/preview-mobile.png) |
-
----
 
 ## ✨ O que é este projeto
 
